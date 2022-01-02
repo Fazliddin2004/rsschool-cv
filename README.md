@@ -1,2 +1,1 @@
-# rsschool-cv
-mm
+init: start mentor-dashboard task
